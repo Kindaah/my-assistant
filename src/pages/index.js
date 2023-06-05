@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <main>
-      <div>This is My Virtual Assistant Page </div>
+      <div>This is Virtual Assistant Page </div>
     </main>
   )
 }
